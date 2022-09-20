@@ -18,7 +18,7 @@ class Saveday extends Component {
                 </div>
                 <div className="col-12 col-md-8 clock-area">
                   <div className="count-down-clock">
-                    <CountDown deadline="April 10, 2022 14:00:00" />
+                    <CountDown deadline="October 01, 2022 14:00:00" />
                   </div>
                 </div>
               </div>
