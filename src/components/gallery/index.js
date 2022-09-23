@@ -19,6 +19,9 @@ import galleryImage11 from '../../images/gallery/11.jpg';
 import galleryImage13 from '../../images/gallery/13.jpg';
 import galleryImage14 from '../../images/gallery/14.jpg';
 import galleryImage15 from '../../images/gallery/15.jpg';
+import galleryImage16 from '../../images/gallery/16.jpg';
+import galleryImage17 from '../../images/gallery/17.jpg';
+import galleryImage18 from '../../images/gallery/18.jpg';
 
 const Gallery = () => {
   const { t } = useTranslation();
@@ -35,6 +38,9 @@ const Gallery = () => {
     13: galleryImage13,
     14: galleryImage14,
     15: galleryImage15,
+    16: galleryImage16,
+    17: galleryImage17,
+    18: galleryImage18,
   };
 
   return (

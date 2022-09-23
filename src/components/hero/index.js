@@ -50,6 +50,23 @@ class SimpleSlider extends Component {
             </div>
           </div>
         </div>
+        <div className="item3">
+          <div className="container">
+            <div className="container">
+              <div className="slide-content">
+                <div className="slide-subtitle">
+                  <h4>WE ARE GETTING MARRIED</h4>
+                </div>
+                <div className="slide-title">
+                  <h2>Save The Date</h2>
+                </div>
+                <div className="slide-text">
+                  <p>01-10-2022</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </Slider>
     );
   }
