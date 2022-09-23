@@ -32,7 +32,7 @@ const Location = () => {
                   <h3>Lễ ăn hỏi</h3>
                   <span className="time">8 giờ thứ 6, ngày 30 tháng 09 năm 2022</span>
                   <span className="location">
-                    Thôn Mỹ Cầu, Xã Đồng Tân, Huyện Ứng Hoà, TP Hà Nội
+                    Thôn An Cư, Xã Trầm Lộng, Huyện Ứng Hoà, TP Hà Nội
                   </span>
                   <a
                     className="locationMap"
@@ -52,8 +52,8 @@ const Location = () => {
             <div className="col-lg-7">
               <div className="ceromony-content ceromony-content2">
                 <h3>Tiệc cưới</h3>
-                <span className="time">9 giờ 30 phút thứ 7, ngày 01 tháng 10 năm 2022</span>
-                <span className="location">Thôn Mỹ Cầu, Xã Đồng Tân, Huyện Ứng Hoà, TP Hà Nội</span>
+                <span className="time">18 giờ phút thứ 6, ngày 30 tháng 09 năm 2022</span>
+                <span className="location">Thôn An Cư, Xã Trầm Lộng, Huyện Ứng Hoà, TP Hà Nội</span>
                 <a
                   className="locationMap"
                   href={tiecCuoiLocation}
